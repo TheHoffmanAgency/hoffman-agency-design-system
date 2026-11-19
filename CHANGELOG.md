@@ -24,6 +24,22 @@ really lives in the Claude Design project
 > If one rule landed in several files, list every file. Versioning rules:
 > `CONTRIBUTING.md` → Versioning.
 
+## 2026-11-19 — Every link points at the new home (v3.0.1 → v3.0.2)
+
+<!-- The last push Nicolas Chan makes to this repository. -->
+
+GitHub Pages moved with the repository and serves from `thehoffmanagency.github.io/hoffman-agency-design-system`, but Pages does not redirect, so every link to the old `neekchan.github.io` address had started returning 404: the gallery, the brand guidelines, the Brand Tour, the Brand Mark Studio and every preview card in the README.
+
+### Links — `README.md`, `AGENTS.md`, `IMAGERY.md`, `CHANGELOG.md`
+- All 41 links to the old Pages address now use the new one. The 33 distinct URLs were each fetched after the change: all return 200.
+- A once-over of the rest: every relative link and image path in the 73 Markdown and HTML files resolves; the 53 external URLs answer, except two CDN folder prefixes that the emoji runtime appends filenames to (real emoji under both load).
+- Left as written on purpose: the 2026 entry that records the repository being created under `neekchan`, and `HANDOVER.md`'s note that the old repository address redirects.
+
+### `HANDOVER.md`
+- The ownership steps no longer ask the author to leave: removing his accounts is the agency's call.
+
+Patch: links and documentation only.
+
 ## 2026-11-19 — The system moves to its new home (v3.0.0 → v3.0.1)
 
 The repository is transferred from `neekchan` to the `TheHoffmanAgency` organisation; the old address redirects. `HANDOVER.md` and the gallery's source link point at the new address, and the ownership section now records the move and the two steps left: the agency's owners join, then the author steps out.
@@ -1403,7 +1419,7 @@ which is what was actually wanted. It carries the same index as the README
 system's own tokens and fonts rather than describing them, and every link was
 verified against a real file before shipping.
 
-**[neekchan.github.io/hoffman-agency-design-system](https://neekchan.github.io/hoffman-agency-design-system/)**
+**[thehoffmanagency.github.io/hoffman-agency-design-system](https://thehoffmanagency.github.io/hoffman-agency-design-system/)**
 
 Patch — a missing page restored and a platform limit documented.
 
@@ -1444,7 +1460,7 @@ no worked examples.
   reaches for: the myth, the audience, finding the story, the proof, the choice,
   signal in the noise, complexity into clarity, partnership, the obstacle, reach,
   time, the detail that matters.
-- **[A live library card](https://neekchan.github.io/hoffman-agency-design-system/preview/brand-illustration-library.html)**
+- **[A live library card](https://thehoffmanagency.github.io/hoffman-agency-design-system/preview/brand-illustration-library.html)**
   with the prefix at the top and a **copy-the-full-prompt button** on every
   example — paste straight into any image AI.
 - **`prompts.json`** alongside, so the set is machine-readable too.
@@ -1594,7 +1610,7 @@ The Brand Mark Studio link went to GitHub's source view, which is a wall of HTML
 and not a tool. Fixed properly: **GitHub Pages is on**, so every static surface in
 this repo now has a real URL.
 
-- **[The Brand Mark Studio](https://neekchan.github.io/hoffman-agency-design-system/preview/brand-mark-studio.html)**
+- **[The Brand Mark Studio](https://thehoffmanagency.github.io/hoffman-agency-design-system/preview/brand-mark-studio.html)**
   opens and runs. Exports work natively, because a real browser allows the save
   dialog that a sandboxed embed does not. This is the third attempt at making
   that export reliable (see v2.4.0–v2.4.3) and the first one that didn't have to

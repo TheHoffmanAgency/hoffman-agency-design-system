@@ -34,7 +34,7 @@ The documented default when the user hasn't supplied their own samples.
 
 > **📚 36 worked examples, each with the exact prompt that made it, live in
 > [`assets/house-style/`](./assets/house-style/README.md) — browsable at
-> [the illustration library](https://neekchan.github.io/hoffman-agency-design-system/preview/brand-illustration-library.html).**
+> [the illustration library](https://thehoffmanagency.github.io/hoffman-agency-design-system/preview/brand-illustration-library.html).**
 > Copy the prefix below, append a subject line, paste into any image AI. Start
 > there rather than writing a style description from scratch.
 

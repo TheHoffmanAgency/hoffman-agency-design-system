@@ -24,7 +24,7 @@ Done on 19 November 2026. The repository lives at **github.com/TheHoffmanAgency/
 What is left is people, not code:
 
 1. **The agency's owners join the organisation.** Ideally two, so access never hangs on one person. An owner invites them under the organisation's People tab, as Owner; each accepts by email.
-2. **The author steps out.** Once they are in and can see the repository, `neekchan` and `neeekchan` leave the organisation (or are removed). GitHub refuses to let the last owner leave, so this only works after step 1.
+2. **The agency decides on the author's access.** `neekchan` and `neeekchan` are still owners. Removing them is the agency's call, under People, whenever it chooses; GitHub refuses to remove the last owner, so it only works once the agency's own owners are in.
 3. **Review access.** Organisation owners have admin on every repository. Anyone added to this repository directly shows under Settings → Collaborators and teams.
 
 Do not create a new repository named `hoffman-agency-design-system` under `neekchan`: it would break the redirect. The author keeps a private, read-only copy of everything up to v3.0.0 in his own account.

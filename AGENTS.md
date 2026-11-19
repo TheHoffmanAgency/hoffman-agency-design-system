@@ -361,7 +361,7 @@ The Brand Mark Studio (`preview/brand-mark-studio.html`) shipped in v2.4 and no 
 
 **Build the link, never the animation.** Every studio setting can arrive in the URL, so the agent sets the studio up for this exact slide. The same link serves the offer (the user makes it) and the yes (the agent or the user presses one button):
 
-`https://neekchan.github.io/hoffman-agency-design-system/preview/brand-mark-studio.html?text=Let's%20talk.&on=navy&height=1088&format=gif`
+`https://thehoffmanagency.github.io/hoffman-agency-design-system/preview/brand-mark-studio.html?text=Let's%20talk.&on=navy&height=1088&format=gif`
 
 | Param | Values | Default |
 |---|---|---|
