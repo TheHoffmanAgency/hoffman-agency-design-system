@@ -12,34 +12,22 @@ The Hoffman Agency design system: brand tokens, the 56-layout deck library, the 
 Clone it (needs git; GitHub Desktop works too):
 
 ```bash
-git clone https://github.com/neekchan/hoffman-agency-design-system.git
+git clone https://github.com/TheHoffmanAgency/hoffman-agency-design-system.git
 ```
 
 Or on the repository page, **Code → Download ZIP**. A ZIP is a snapshot and never updates; a clone can be brought current with `git pull`. Before any build, run `git fetch && git status -sb`: if it says `behind`, pull first. A stale clone teaches last quarter's rules (`LLM_ENTRYPOINT.md`, point 3).
 
-## Take ownership
+## Ownership
 
-Pick one. The author does them; the recipient only accepts.
+Done on 19 November 2026. The repository lives at **github.com/TheHoffmanAgency/hoffman-agency-design-system**, in the `TheHoffmanAgency` organisation; the old `neekchan/hoffman-agency-design-system` address redirects there. History, tags, stars and the `takeoap` fork moved with it.
 
-1. **Transfer the repository** to a Hoffman GitHub organisation or user. Settings → General → Danger zone → *Transfer ownership*, or:
+What is left is people, not code:
 
-   ```bash
-   gh api -X POST repos/neekchan/hoffman-agency-design-system/transfer -f new_owner=<hoffman-org-or-user>
-   ```
+1. **The agency's owners join the organisation.** Ideally two, so access never hangs on one person. An owner invites them under the organisation's People tab, as Owner; each accepts by email.
+2. **The author steps out.** Once they are in and can see the repository, `neekchan` and `neeekchan` leave the organisation (or are removed). GitHub refuses to let the last owner leave, so this only works after step 1.
+3. **Review access.** Organisation owners have admin on every repository. Anyone added to this repository directly shows under Settings → Collaborators and teams.
 
-   GitHub emails the new owner, who accepts within a day. Old links redirect. History, issues and stars move with it. This is the clean option: one repository, one owner, no fork to keep in step.
-
-2. **Add an admin collaborator** and leave the repository where it is:
-
-   ```bash
-   gh api -X PUT repos/neekchan/hoffman-agency-design-system/collaborators/<github-user> -f permission=admin
-   ```
-
-   Simpler today, but the repository still sits under a personal account.
-
-3. **Fork it** into a Hoffman organisation. The fork is yours from the moment it is made; the original stays as the author's archive. Two copies drift unless one is retired.
-
-Current collaborators on the repository: `neekchan` (owner), `takeoap`, `neeekchan`. Review them after the transfer.
+Do not create a new repository named `hoffman-agency-design-system` under `neekchan`: it would break the redirect. The author keeps a private, read-only copy of everything up to v3.0.0 in his own account.
 
 ## Two masters, one truth
 

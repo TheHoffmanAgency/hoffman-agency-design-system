@@ -24,6 +24,12 @@ really lives in the Claude Design project
 > If one rule landed in several files, list every file. Versioning rules:
 > `CONTRIBUTING.md` → Versioning.
 
+## 2026-11-19 — The system moves to its new home (v3.0.0 → v3.0.1)
+
+The repository is transferred from `neekchan` to the `TheHoffmanAgency` organisation; the old address redirects. `HANDOVER.md` and the gallery's source link point at the new address, and the ownership section now records the move and the two steps left: the agency's owners join, then the author steps out.
+
+Patch: links and documentation only.
+
 ## 2026-11-05 — 3.0: the Brand Tour boots, and the author signs off (v2.26.2 → v3.0.0)
 
 <!-- Last entry Nicolas Chan writes in this log. -->
