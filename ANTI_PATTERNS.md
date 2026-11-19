@@ -51,4 +51,4 @@ Use this as a quick failure-mode check before shipping an LLM-generated design.
 
 ---
 
-<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[neekchan@gmail.com](mailto:neekchan@gmail.com) · [nchan@hoffman.com](mailto:nchan@hoffman.com) · [linkedin.com/in/nicolaschan](https://www.linkedin.com/in/nicolaschan/)<br>This file originated in the fork by **Takeo Apitzsch** ([@takeoap](https://github.com/takeoap)).</sub>
+<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[nchan@hoffman.com](https://www.neekchan.com) · [linkedin.com/in/nicolaschan](https://www.neekchan.com)<br>This file originated in the fork by **Takeo Apitzsch** ([@takeoap](https://github.com/takeoap)).</sub>

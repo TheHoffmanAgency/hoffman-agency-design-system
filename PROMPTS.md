@@ -318,4 +318,4 @@ The finished shots are in `assets/photography/cities/`, one per office.
 
 ---
 
-<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[neekchan@gmail.com](mailto:neekchan@gmail.com) · [nchan@hoffman.com](mailto:nchan@hoffman.com) · [linkedin.com/in/nicolaschan](https://www.linkedin.com/in/nicolaschan/)</sub>
+<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[nchan@hoffman.com](https://www.neekchan.com) · [linkedin.com/in/nicolaschan](https://www.neekchan.com)</sub>

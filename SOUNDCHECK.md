@@ -266,4 +266,4 @@ navigation, name it honestly.
 ## Author
 
 **Nicolas Chan** — Head of Digital &amp; Chief Strategist, AMEA, The Hoffman Agency
-[neekchan@gmail.com](mailto:neekchan@gmail.com) · [nchan@hoffman.com](mailto:nchan@hoffman.com) · [linkedin.com/in/nicolaschan](https://www.linkedin.com/in/nicolaschan/)
+[nchan@hoffman.com](https://www.neekchan.com) · [linkedin.com/in/nicolaschan](https://www.neekchan.com)

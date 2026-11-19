@@ -54,4 +54,4 @@ Audited on 5 November 2026 so nobody discovers these on a deadline.
 
 ## Who to ask
 
-Nicolas Chan · [neekchan@gmail.com](mailto:neekchan@gmail.com) · [linkedin.com/in/nicolaschan](https://www.linkedin.com/in/nicolaschan/)
+Nicolas Chan · [nchan@hoffman.com](https://www.neekchan.com) · [linkedin.com/in/nicolaschan](https://www.neekchan.com)

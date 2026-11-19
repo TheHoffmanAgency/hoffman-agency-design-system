@@ -5,7 +5,7 @@
   <img src="./assets/readme/hero.svg" width="100%" alt="The Hoffman Agency Design System — brand tokens, 56 slide layouts, and the rules an LLM needs to build on-brand.">
 </p>
 
-**Version 3.0.2** · [full history in `CHANGELOG.md`](CHANGELOG.md) · the handover release: **the repository is the master from here**, it renders and checks on any machine with nothing installed (`vendor/`, `tools/`), the standalone Brand Tour boots, and the generated files are frozen. Start at `HANDOVER.md`.
+**Version 3.0.3** · [full history in `CHANGELOG.md`](CHANGELOG.md) · the handover release: **the repository is the master from here**, it renders and checks on any machine with nothing installed (`vendor/`, `tools/`), the standalone Brand Tour boots, and the generated files are frozen. Start at `HANDOVER.md`.
 
 Integrated Comms agency that helps tech brands solve hard business problems. The harder the better. Hoffman helps companies turn complex business challenges into clear, compelling stories across earned, digital, social, content, creative and AI-enabled communications.
 
@@ -576,4 +576,4 @@ The backlog itself lives in one place: **`DESIGN.md` → Reserved for future def
 
 ---
 
-<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[neekchan@gmail.com](mailto:neekchan@gmail.com) · [nchan@hoffman.com](mailto:nchan@hoffman.com) · [linkedin.com/in/nicolaschan](https://www.linkedin.com/in/nicolaschan/)</sub>
+<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[nchan@hoffman.com](https://www.neekchan.com) · [linkedin.com/in/nicolaschan](https://www.neekchan.com)</sub>

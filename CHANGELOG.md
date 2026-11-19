@@ -24,6 +24,17 @@ really lives in the Claude Design project
 > If one rule landed in several files, list every file. Versioning rules:
 > `CONTRIBUTING.md` → Versioning.
 
+## 2026-11-19 — One address for the author (v3.0.2 → v3.0.3)
+
+Nicolas Chan's contact lines now show his Hoffman email and LinkedIn, and both link to www.neekchan.com, which carries his current contact details. His personal Gmail address is removed from the repository.
+
+### Contact lines — 36 files
+- The author footer in every Markdown file, the SOUNDCHECK author block, HANDOVER's "Who to ask", the gallery page, the emoji library, both brand-guideline slide decks and the Brand Tour (template and standalone): `nchan@hoffman.com · linkedin.com/in/nicolaschan`, each linked to `https://www.neekchan.com`. The slide and tour lines, which were plain text, become links styled to look unchanged.
+- `package.json` author and the `colors_and_type.css` header carry the same, with the site as the URL.
+- Every mention of his name stays (76 before, 76 after). Rendered the tour, guidelines and gallery afterwards: links in place, no console errors.
+
+Patch: contact details only.
+
 ## 2026-11-19 — Every link points at the new home (v3.0.1 → v3.0.2)
 
 <!-- The last push Nicolas Chan makes to this repository. -->
@@ -2323,4 +2334,4 @@ system down from Claude Design.
 
 ---
 
-<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[neekchan@gmail.com](mailto:neekchan@gmail.com) · [nchan@hoffman.com](mailto:nchan@hoffman.com) · [linkedin.com/in/nicolaschan](https://www.linkedin.com/in/nicolaschan/)</sub>
+<sub>The Hoffman Agency design system — created by **Nicolas Chan**, Head of Digital &amp; Chief Strategist, AMEA.<br>[nchan@hoffman.com](https://www.neekchan.com) · [linkedin.com/in/nicolaschan](https://www.neekchan.com)</sub>
